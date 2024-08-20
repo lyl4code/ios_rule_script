@@ -43,10 +43,8 @@ DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,fbcdn
-DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,sci-hub
-DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
 
 # GFW list
@@ -219,7 +217,6 @@ DOMAIN-SUFFIX,addyoutube.com
 DOMAIN-SUFFIX,adelaidebbs.com
 DOMAIN-SUFFIX,admob.com
 DOMAIN-SUFFIX,adpl.org.hk
-DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,adsense.com
 DOMAIN-SUFFIX,adult-sex-games.com
 DOMAIN-SUFFIX,adultfriendfinder.com
@@ -543,7 +540,6 @@ DOMAIN-SUFFIX,bell.wiki
 DOMAIN-SUFFIX,bemywife.cc
 DOMAIN-SUFFIX,beric.me
 DOMAIN-SUFFIX,berlinerbericht.de
-DOMAIN-SUFFIX,berlintwitterwall.com
 DOMAIN-SUFFIX,berm.co.nz
 DOMAIN-SUFFIX,bestforchina.org
 DOMAIN-SUFFIX,bestgore.com
@@ -833,7 +829,6 @@ DOMAIN-SUFFIX,cdef.org
 DOMAIN-SUFFIX,cdig.info
 DOMAIN-SUFFIX,cdjp.org
 DOMAIN-SUFFIX,cdnews.com.tw
-DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,cdp1989.org
 DOMAIN-SUFFIX,cdp1998.org
 DOMAIN-SUFFIX,cdp2006.org
@@ -1692,7 +1687,6 @@ DOMAIN-SUFFIX,filesor.com
 DOMAIN-SUFFIX,fillthesquare.org
 DOMAIN-SUFFIX,filmingfortibet.org
 DOMAIN-SUFFIX,filthdump.com
-DOMAIN-SUFFIX,financetwitter.com
 DOMAIN-SUFFIX,finchvpn.com
 DOMAIN-SUFFIX,findmespot.com
 DOMAIN-SUFFIX,findyoutube.com
@@ -2497,8 +2491,6 @@ DOMAIN-SUFFIX,inote.tw
 DOMAIN-SUFFIX,insecam.org
 DOMAIN-SUFFIX,inside.com.tw
 DOMAIN-SUFFIX,insidevoa.com
-DOMAIN-SUFFIX,instagram.com
-DOMAIN-SUFFIX,instanthq.com
 DOMAIN-SUFFIX,institut-tibetain.org
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,internet.org
@@ -4260,7 +4252,6 @@ DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,sijihuisuo.club
 DOMAIN-SUFFIX,sijihuisuo.com
 DOMAIN-SUFFIX,silkbook.com
-DOMAIN-SUFFIX,simbolostwitter.com
 DOMAIN-SUFFIX,simplecd.org
 DOMAIN-SUFFIX,simpleproductivityblog.com
 DOMAIN-SUFFIX,sina.com.hk
@@ -4903,7 +4894,6 @@ DOMAIN-SUFFIX,tuidang.net
 DOMAIN-SUFFIX,tuidang.org
 DOMAIN-SUFFIX,tuidang.se
 DOMAIN-SUFFIX,tuitui.info
-DOMAIN-SUFFIX,tuitwit.com
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,tumutanzi.com
 DOMAIN-SUFFIX,tumview.com
@@ -4915,7 +4905,6 @@ DOMAIN-SUFFIX,tunsafe.com
 DOMAIN-SUFFIX,turansam.org
 DOMAIN-SUFFIX,turbobit.net
 DOMAIN-SUFFIX,turbohide.com
-DOMAIN-SUFFIX,turbotwitter.com
 DOMAIN-SUFFIX,turkistantimes.com
 DOMAIN-SUFFIX,turntable.fm
 DOMAIN-SUFFIX,tushycash.com
@@ -4988,36 +4977,6 @@ DOMAIN-SUFFIX,twister.net.co
 DOMAIN-SUFFIX,twisterio.com
 DOMAIN-SUFFIX,twisternow.com
 DOMAIN-SUFFIX,twistory.net
-DOMAIN-SUFFIX,twit2d.com
-DOMAIN-SUFFIX,twitbrowser.net
-DOMAIN-SUFFIX,twitcause.com
-DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,twitchcdn.net
-DOMAIN-SUFFIX,twitgether.com
-DOMAIN-SUFFIX,twitgoo.com
-DOMAIN-SUFFIX,twitiq.com
-DOMAIN-SUFFIX,twitlonger.com
-DOMAIN-SUFFIX,twitmania.com
-DOMAIN-SUFFIX,twitoaster.com
-DOMAIN-SUFFIX,twitonmsn.com
-DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,twitstat.com
-DOMAIN-SUFFIX,twittbot.net
-DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,twitter.jp
-DOMAIN-SUFFIX,twitter4j.org
-DOMAIN-SUFFIX,twittercounter.com
-DOMAIN-SUFFIX,twitterfeed.com
-DOMAIN-SUFFIX,twittergadget.com
-DOMAIN-SUFFIX,twitterkr.com
-DOMAIN-SUFFIX,twittermail.com
-DOMAIN-SUFFIX,twitterrific.com
-DOMAIN-SUFFIX,twittertim.es
-DOMAIN-SUFFIX,twitthat.com
-DOMAIN-SUFFIX,twitturk.com
-DOMAIN-SUFFIX,twitturly.com
-DOMAIN-SUFFIX,twitvid.com
-DOMAIN-SUFFIX,twitzap.com
 DOMAIN-SUFFIX,twiyia.com
 DOMAIN-SUFFIX,twnorth.org.tw
 DOMAIN-SUFFIX,twreporter.org
@@ -5834,11 +5793,6 @@ IP-CIDR,179.60.192.0/22,no-resolve
 IP-CIDR,185.60.216.0/22,no-resolve
 IP-CIDR,204.15.20.0/22,no-resolve
 
-# Instagram
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,instagram.com
-DOMAIN-SUFFIX,instagr.am
-
 # Kakao Talk
 DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,kakao.co.kr
@@ -5946,12 +5900,6 @@ DOMAIN,steampipe.akamaized.net
 # TapTap
 DOMAIN-SUFFIX,tap.io
 DOMAIN-SUFFIX,taptap.tw
-
-# Twitch
-DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,ttvnw.net
-DOMAIN-SUFFIX,jtvnw.net
-DOMAIN-KEYWORD,ttvnw
 
 
 # TeraBox
