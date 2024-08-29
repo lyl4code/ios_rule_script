@@ -1,0 +1,12 @@
+# NAME: Private
+# AUTHOR: LYL
+DOMAIN-SUFFIX,lyls.tools
+DOMAIN-KEYWORD,lyls
+IP-CIDR,35.189.161.253/32,no-resolve
+IP-CIDR,39.100.100.158/32,no-resolve
+IP-CIDR,35.189.161.253/32,no-resolve
+IP-CIDR,10.140.0.2/32,no-resolve
+DOMAIN,admin.compassedu.hk
+DOMAIN,compassedu.hk
+DOMAIN-SUFFIX,compassedu.hk
+DOMAIN-KEYWORD,compassedu
